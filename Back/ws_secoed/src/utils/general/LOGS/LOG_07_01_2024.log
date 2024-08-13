@@ -1,0 +1,8 @@
+17:10:28 - INF - <module> - ('Servicio Iniciado',)
+17:10:29 - INF - <module> - ('Servicio Iniciado',)
+17:11:47 - INF - post - ('Ingreso a Validar el Login',)
+17:11:47 - INF - Login - ('Login Exitoso para usuario: admin',)
+17:16:47 - INF - post - ('Ingreso a Validar el Login',)
+17:16:47 - INF - Login - ('Login Exitoso para usuario: admin',)
+17:32:14 - INF - <module> - ('Servicio Finalizado',)
+17:32:15 - INF - <module> - ('Servicio Finalizado',)

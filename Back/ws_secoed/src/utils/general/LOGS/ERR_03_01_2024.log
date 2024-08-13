@@ -1,0 +1,2 @@
+10:57:56 - ERR - getRecords - (OperationalError('connection to server at "localhost" (::1), port 5432 failed: server closed the connection unexpectedly\n\tThis probably means the server terminated abnormally\n\tbefore or while processing the request.\n'),)
+10:57:56 - ERR - Login - (UnboundLocalError("cannot access local variable 'cursor' where it is not associated with a value"),)
